@@ -1,13 +1,13 @@
 # Hi, I'm Samuel 👋
 
-I'm a final year student pursuing a Double Degree in Computer Engineering and Business Administration at University Carlos III de Madrid (UC3M). I'm passionate about technology, innovation, and music, and I'm always eager to learn and collaborate on exciting projects.
+I'm a final-year student pursuing a Double Degree in Computer Engineering and Business Administration at "Universidad Carlos III de Madrid (UC3M)". Passionate about technology, innovation, and music, I’m always eager to learn and collaborate on exciting projects.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Student at UC3M**
-- 🎮 **Video game enthusiast**
+- 🎮 **Video Game Enthusiast**
 - 🎵 **Musician**
 - 💻 **Tech Enthusiast**
 - 🤝 **Team Player**
@@ -20,21 +20,20 @@ I'm a final year student pursuing a Double Degree in Computer Engineering and Bu
 
 **Programming & Frameworks**
 - Python, SQL, C, C++
-- Familiarity with Flask and JtR
+- Familiarity with Flask and HTML/CSS/JavaScript
 
 **Data & Analytics**
-- SQL, Excel, BigQuery
+- SQL, Excel, Pandas, NumPy and Matplotlib
 
-**Cloud & Deployment:**
-- Google Cloud Platform
+**Deployment:**
 - Docker
 - Linux (Debian, Ubuntu)
+- JtR
 
 **Tools**
 - Git & GitHub
-
-
-
+- Experience with MongoDB, Cassandra, Oracle, MySQL, MATLAB, and Linux
+  
 ---
 
 ## 📫 Get in Touch
@@ -43,7 +42,7 @@ I'm a final year student pursuing a Double Degree in Computer Engineering and Bu
 - **LinkedIn:** [linkedin.com/in/samuel-fdez](https://www.linkedin.com/in/samuel-fdez)  
 - **GitHub:** [github.com/samufern](https://github.com/samufern)
 
-Feel free to check out my projects and drop me a message if you'd like to collaborate or simply chat about tech and music!
+Feel free to check out my projects and drop me a message if you'd like to collaborate or simply chat about tech!
 
 
 
