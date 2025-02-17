@@ -23,16 +23,13 @@ I'm a final-year student pursuing a Double Degree in Computer Engineering and Bu
 - Familiarity with Flask and HTML/CSS/JavaScript
 
 **Data & Analytics**
-- SQL, Excel, Pandas, NumPy and Matplotlib
+- Tools & Libraries: SQL, Excel, Pandas, NumPy and Matplotlib
 
-**Deployment:**
-- Docker
-- Linux (Debian, Ubuntu)
-- JtR
-
-**Tools**
-- Git & GitHub
-- Experience with MongoDB, Cassandra, Oracle, MySQL, MATLAB, and Linux
+**Deployment & Tools**
+- Containerization: Docker
+- Databases: MongoDB, Cassandra, Oracle and MySQL
+- Version Control: Git and GitHub
+- Security: John the Ripper
   
 ---
 
