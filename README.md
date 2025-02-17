@@ -1,6 +1,6 @@
 # Hi, I'm Samuel 👋
 
-I'm a final-year student pursuing a Double Degree in Computer Engineering and Business Administration at [Universidad Carlos III de Madrid (UC3M)](https://www.uc3m.es). Passionate about technology, innovation, and music, I’m always eager to learn and collaborate on exciting projects.
+I'm a final-year student pursuing a Double Degree in Computer Engineering and Business Administration at [Universidad Carlos III de Madrid](https://www.uc3m.es). Passionate about technology, innovation, and music, I’m always eager to learn and collaborate on exciting projects.
 
 ---
 
